@@ -9,7 +9,7 @@
 Адаптивная верстка была выполнена с помощью свойств flexbox grid и медиазапросов.
 
 Ссылка на github pages:
-https://allforhardcore.github.io/russian-travel/index.html
+https://allforhardcore.github.io/sprint4js/index.html
 
 **Автор**
 
