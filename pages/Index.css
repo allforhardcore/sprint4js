@@ -15,11 +15,11 @@
 
 @import url(../blocks/elements/elements.css);
 
-@import url(../blocks/element/element.css);
-@import url(../blocks/element/__picture/element__picture.css);
-@import url(../blocks/element/__content-wrapper/element__content-wrapper.css);
-@import url(../blocks/element/__heading/element__heading.css);
-@import url(../blocks/element/__like-button/element__like-button.css);
+@import url(../blocks/elements/elements__element.css);
+@import url(../blocks/elements/__picture/elements__picture.css);
+@import url(../blocks/elements/__content-wrapper/elements__content-wrapper.css);
+@import url(../blocks/elements/__heading/elements__heading.css);
+@import url(../blocks/elements/__like-button/elements__like-button.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__credits/footer__credits.css);

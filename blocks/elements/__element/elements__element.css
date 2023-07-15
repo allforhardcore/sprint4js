@@ -1,4 +1,4 @@
-.element {
+.elements__element {
   margin: 0;
   padding: 0;
   max-width: 280px;
@@ -11,13 +11,13 @@
 }
 
 @media screen and (max-width: 967px) {
-  .element {
+  .elements__element {
     max-width: 432px;
   }
 }
 
 @media screen and (max-width: 679px) {
-  .element {
+  .elements__element {
     max-width: calc(100vw - 40px);
   }
 }
